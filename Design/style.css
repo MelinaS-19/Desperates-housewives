@@ -93,3 +93,9 @@ body{
     float: right;
     text-align: justify;
 }
+.titre-p{
+    font-size:50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
+}
