@@ -81,7 +81,7 @@ body{
     font-family:'Times New Roman', Times, serif;
     margin:  4px 2px;
     border-radius: 1rem;
-    float: center;
+    float: right;
     text-align:justify
 }
 
@@ -96,7 +96,7 @@ body{
     font-family:'Times New Roman', Times, serif;
     margin:  4px 2px;
     border-radius: 1rem;
-    float: right;
+    float: left;
     text-align: justify;
 }
 
@@ -139,29 +139,15 @@ body{
     font-family:'Times New Roman', Times, serif;
     margin:  4px 2px;
     border-radius: 1rem;
-    float: center;
+    float: right;
     text-align:justify
 }
 #Acteur7{
     background-color: rgba(0, 0, 0, 0.7);
     border: none;
     color:  bisque;
-    padding: 7rem;
+    padding: 1rem;
     text-align: right;
-    display: inline-block;
-    font-size: 25px;
-    font-family:'Times New Roman', Times, serif;
-    margin:  4px 2px;
-    border-radius: 1rem;
-    float: right;
-    text-align:justify
-}
-#Acteur8{
-    background-color: rgba(0, 0, 0, 0.7);
-    border: none;
-    color:  bisque;
-    padding: 4rem;
-    text-align: left;
     display: inline-block;
     font-size: 25px;
     font-family:'Times New Roman', Times, serif;
@@ -170,18 +156,32 @@ body{
     float: left;
     text-align:justify
 }
-#Acteur9{
+#Acteur8{
     background-color: rgba(0, 0, 0, 0.7);
     border: none;
     color:  bisque;
-    padding: 2rem;
-    text-align: right;
+    padding: 1rem;
+    text-align: left;
     display: inline-block;
     font-size: 25px;
     font-family:'Times New Roman', Times, serif;
     margin:  4px 2px;
     border-radius: 1rem;
     float: right;
+    text-align:justify
+}
+#Acteur9{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: left;
     text-align:justify
 }
 #Acteur10{
@@ -195,7 +195,7 @@ body{
     font-family:'Times New Roman', Times, serif;
     margin:  4px 2px;
     border-radius: 1rem;
-    float: left;
+    float: right;
     text-align:justify
 }
 table{
