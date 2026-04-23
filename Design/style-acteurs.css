@@ -1,0 +1,207 @@
+body{
+    background-image: url(../image/fond-accueil.avif);
+    background-repeat: no-repeat;
+    background-size: 1035px;
+    background-size: cover;
+}
+body{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+     background-attachment: fixed;
+}
+.button{
+    background-color:rgb(156, 20, 20) ;
+    border: none;
+    color:rgb(255, 255, 255);
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 4px 2px;
+    border-radius: 2rem;
+    border-bottom: 5px solid red;
+    transition: all.1s;
+    -webkit-transition: all .1s;
+    float:left;
+}
+.button-{
+    background-color:rgb(156, 20, 20) ;  
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin:  4px 2px;
+    border-radius: 2rem;
+    transition: all.1s;
+    -webkit-transition: all .1s;
+    float: left;
+}
+.button:active{
+    transform: translate(0, 5px);
+    -webkit-transform: translate(0, 5px)
+    border-bottom 1px solid;
+}
+#titre{
+    font-size: 30px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titre1{
+    font-size: 30px;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Acteur1{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: left;
+    text-align: justify;
+}
+
+#Acteur2{ background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: center;
+    text-align:justify
+}
+
+#Acteur3{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: right;
+    text-align: justify;
+}
+
+#Acteur4{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: right;
+    text-align:justify
+}
+#Acteur5{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: left;
+    text-align:justify
+}
+#Acteur6{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: center;
+    text-align:justify
+}
+#Acteur7{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 7rem;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: right;
+    text-align:justify
+}
+#Acteur8{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 4rem;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: left;
+    text-align:justify
+}
+#Acteur9{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 2rem;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: right;
+    text-align:justify
+}
+#Acteur10{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color:  bisque;
+    padding: 1rem;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin:  4px 2px;
+    border-radius: 1rem;
+    float: left;
+    text-align:justify
+}
+table{
+    font-size: 20px;
+}
+
+table img{
+    padding-right: 7px;
+}
