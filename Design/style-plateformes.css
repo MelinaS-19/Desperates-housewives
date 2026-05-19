@@ -70,6 +70,32 @@ body{
     border-radius: 1rem;
     float:left;
 }
+#text-2{
+    background-color:rgba(0, 0, 0, 0.7) ;
+    border: none;
+    color: bisque;
+    padding: 1rem;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 4px 2px;
+    border-radius: 1rem;
+    float:center;
+}
+#text-3{
+    background-color:rgba(0, 0, 0, 0.7) ;
+    border: none;
+    color: bisque;
+    padding: 1rem;
+    text-align: left;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 4px 2px;
+    border-radius: 1rem;
+    float:right;
+}
 .titre-p{
     font-size:50px;
     text-align: center;

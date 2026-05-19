@@ -46,10 +46,14 @@ body{
     -webkit-transform: translate(0, 5px)
     border-bottom 1px solid;
 }
+.titre-p{
+    color: chartreuse;
+}
 #titre{
     font-size: 30px;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:chartreuse;
 }
 #titre1{
     font-size: 30px;
