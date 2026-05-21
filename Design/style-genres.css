@@ -47,7 +47,7 @@ body{
 }
 .button:active{
     transform: translate(0, 5px);
-    -webkit-transform: translate(0, 5px)
+    -webkit-transform: translate(0, 5px);
     border-botto 1px solid;
 }
 
@@ -55,7 +55,7 @@ body{
     font-size: 30px;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:chartreuse
+    color:chartreuse;
 }
 
 #text-1{
