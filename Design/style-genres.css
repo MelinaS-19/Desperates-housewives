@@ -47,7 +47,7 @@ body{
 }
 .button:active{
     transform: translate(0, 5px);
-    -webkit-transform: translate(0, 5px);
+    -webkit-transform: translate(0, 5px)
     border-botto 1px solid;
 }
 
